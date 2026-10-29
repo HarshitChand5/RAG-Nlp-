@@ -1,0 +1,25 @@
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment & credentials
+.env
+.env.local
+*.env
+
+# IDE & editors
+.vscode/
+.idea/
+
+# OS generated
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs & temp files
+*.log
+*.tmp
